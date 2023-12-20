@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Le Réchauffement Climatique: Les Conséquences à Venir</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Le Réchauffement Climatique: Les Conséquences à Venir</h1>
+    </header>
+
+    <section>
+        <p>
+            Le réchauffement climatique est un problème pressant qui a des implications graves pour notre planète.
+            Les émissions de gaz à effet de serre résultant des activités humaines contribuent au réchauffement de la planète,
+            entraînant des changements climatiques majeurs et des conséquences inévitables.
+        </p>
+
+        <h2>Exemples de Conséquences</h2>
+      
+        <img src="https://cdn.unitycms.io/images/AUvfvA7vK5D9ofoorgL4l5.jpg?op=ocroped&val=1200,1200,1000,1000,0,0&sum=YKyx-Y85jbo" alt="Iceberg fondu">
+          <p>La fonte des icebergs est l'un des signes les plus visibles du réchauffement climatique.</p>
+        <img src="https://cqpm.fr/wp-content/uploads/2022/04/rechauffement-climatique-1024x639.jpg" alt="Forêt desséchée">
+        <p>Les forêts desséchées sont le résultat de changements climatiques, affectant la biodiversité.</p>
+          <img src="https://www.maroc-hebdo.press.ma/files/2022/05/femme-puis-eau-maroc.jpg">
+            <p>Dans de nombreuses régions, les changements climatiques entraînent des schémas de précipitations irréguliers causent des periodes de sécheress sévères et donc la rareté de l'eau.</p>
+ 
+<h3>"AU-DELÀ DES MOTS POUR CONTRER LE RÉCHAUFFEMENT CLIMATIQUE"</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QcwHdAcNOUg" frameborder="0" allowfullscreen></iframe>
+
+</body>
+</html>
